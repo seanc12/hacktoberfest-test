@@ -1,6 +1,6 @@
 # Hacktoberfest ([Live Website](https://hacktoberfest.lingonsaft.com/))
 
-This is a project to help you with your [hacktoberfest](https://hacktoberfest.digitalocean.com/) pull requests. If you don't know where to start feel free to watch the videos down bellow and read the contribution rules. Happy hacking <3
+This is a beginner friendly project to help you get started with your [hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start feel free to watch the videos down bellow and read the contribution rules. Happy hacking <3
 
 # Videos
 
@@ -24,7 +24,7 @@ This is a project to help you with your [hacktoberfest](https://hacktoberfest.di
 # FAQ
 
 - Who can contribute?
-  - Anyone with a github account ;)
+  - Anyone with a github account and signed up for [hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
 - Are you getting paid for this?
   - Sadly no. But we think we should. This is 100% unofficial and we do it for fun, fame and glory.
 - Who are you and why are you doing this?

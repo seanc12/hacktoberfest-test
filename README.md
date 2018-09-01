@@ -1,6 +1,6 @@
 # Hacktoberfest ([Live Website](https://hacktoberfest.lingonsaft.com/))
 
-This is a project to help you with your hacktoberfest pull requests. If you don't know where to start feel free to watch the videos down bellow and read the contribution rules. Happy hacking <3
+This is a project to help you with your [hacktoberfest](https://hacktoberfest.digitalocean.com/) pull requests. If you don't know where to start feel free to watch the videos down bellow and read the contribution rules. Happy hacking <3
 
 # Videos
 
@@ -18,11 +18,8 @@ This is a project to help you with your hacktoberfest pull requests. If you don'
 - You are allowed to make pull requests that breaks the rules. We just won't merge it ;)
 - Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
 - Do NOT remove Videos, Rules, FAQ or any other helpful content.
-- You are allowed to change any style and structure however you want
-- Styling can be pretty, ugly or stupid as long as it works
+- Styling / code can be pretty, ugly or stupid, big or small as long as it works
 - Add your name to the contributers.html file
-- Pull requests can be as small or as big as you want
-- Add any dependencies you want but please as CDN. Ex bootstrap, fonts
 
 # FAQ
 

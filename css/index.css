@@ -5,6 +5,17 @@ body {
   background-color: #EEEEEE;
 }
 
+#navbar {
+  padding: 8px;
+  background-color: #FF0844;
+}
+
+#navbar a {
+  margin-left: 6px;
+  color: white;
+  font-size: 18px;
+}
+
 .faq-question {
   background-color: lightgray;
 }

@@ -12,7 +12,7 @@ This is a project to help you with your hacktoberfest pull requests. If you don'
 - [Forking and Cloning](https://www.youtube.com/embed/QpYJ8RtYiYE)
 - [Commit, Push and PR](https://www.youtube.com/embed/QpYJ8RtYiYE)
 
-# Xontribution rules
+# Kontribution rules
 
 - Project must work when openening index.html
 - You are allowed to make pull requests that breaks the rules. We just won't merge it ;)

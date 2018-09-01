@@ -1,4 +1,4 @@
-# HACKTOBERFEST
+# Hacktoberfest
 
 This is a project to help you with your hacktoberfest pull requests. If you don't know where to start feel free to watch the videos down bellow and read the contribution rules. Happy hacking <3
 
@@ -11,7 +11,7 @@ This is a project to help you with your hacktoberfest pull requests. If you don'
 - [Forking and Cloning](https://www.youtube.com/embed/QpYJ8RtYiYE)
 - [Commit, Push and PR](https://www.youtube.com/embed/QpYJ8RtYiYE)
 
-# contribution rules
+# Xontribution rules
 
 - Project must work when openening index.html
 - You are allowed to make pull requests that breaks the rules. We just won't merge it ;)
@@ -36,4 +36,3 @@ This is a project to help you with your hacktoberfest pull requests. If you don'
   - Because we only know javascript and suck at servers. We use [now](https://zeit.co/now) instead.
 - Are you not the guys from that failed [CodeCardCodingCards](https://www.kickstarter.com/projects/lingonsaft/codecardcodingcards) kickstarter?
   - yes..
-</div>

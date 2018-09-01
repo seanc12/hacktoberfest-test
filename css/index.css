@@ -6,3 +6,17 @@
 .faq-answer {
   border-bottom: 1px solid lightgray;
 }
+
+.contribution-rules-item.dont {
+  border-bottom: 1px solid black;
+  padding: 4px;
+  margin-bottom: 4px;
+  background-color: lightcoral;
+}
+
+.contribution-rules-item.do {
+  border-bottom: 1px solid black;
+  padding: 4px;
+  margin-bottom: 4px;
+  background-color: lightgreen;
+}

@@ -1,8 +1,9 @@
-# Hacktoberfest
+# Hacktoberfest ([Live Website](https://hacktoberfest.lingonsaft.com/))
 
 This is a project to help you with your hacktoberfest pull requests. If you don't know where to start feel free to watch the videos down bellow and read the contribution rules. Happy hacking <3
 
 # Videos
+
 - [Hacktoberfest Intro](https://www.youtube.com/embed/QpYJ8RtYiYE)
 - [How to pull request [Overview]](https://www.youtube.com/embed/QpYJ8RtYiYE)
 - [Making changes / Project Structure](https://www.youtube.com/embed/QpYJ8RtYiYE)
@@ -24,12 +25,13 @@ This is a project to help you with your hacktoberfest pull requests. If you don'
 - Add any dependencies you want but please as CDN. Ex bootstrap, fonts
 
 # FAQ
+
 - Who can contribute?
   - Anyone with a github account ;)
 - Are you getting paid for this?
   - Sadly no. But we think we should. This is 100% unofficial and we do it for fun, fame and glory.
 - Who are you and why are you doing this?
- - We are two programmers from Sweden [Richard](https://github.com/richie-south)
+- We are two programmers from Sweden [Richard](https://github.com/richie-south)
   and [Benny](https://github.com/BennyCarlsson). We are doing this because we love open
   source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open source.
 - Why are you not using digitalocean?

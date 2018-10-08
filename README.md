@@ -35,3 +35,10 @@ This is a beginner friendly project to help you get started with your [hacktober
   - Because we only know javascript and suck at servers. We use [now](https://zeit.co/now) instead.
 - Are you not the guys from that failed [CodeCardCodingCards](https://www.kickstarter.com/projects/lingonsaft/codecardcodingcards) kickstarter?
   - yes..
+
+# More resources
+
+- https://linuxmint.com/
+- https://docs.python.org/3/
+- https://api.rubyonrails.org/
+- https://developer.mozilla.org/en-US/docs/Web/javascript
